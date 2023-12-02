@@ -2,7 +2,7 @@
 ## Profil
 | #               | Biodata                 |
 | --------------- | ----------------------- |
-| **Nama**        | Nabilah Ananda Putri    |
-| **NIM**         | 312110263               |
+| **Nama**        | Bhagas Shaib Pramono    |
+| **NIM**         | 312110406               |
 | **Kelas**       | TI.21.A.1               |
 | **Mata Kuliah** | Kriptografi             |
